@@ -2,4 +2,4 @@
 
 # We then took the .cif files for the 5 predictions and adjusted them to .pdb files with ChimeraX.
 
-# All subsequent analyses were conducted with PyMOL or other softwares.
+# All subsequent analyses were conducted with PyMOL or other softwares, comparing chain A of 5UD7 to the predicted structure.
