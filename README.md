@@ -3,3 +3,5 @@
 Authors: Joshua Pillai, Kijung Sung, Chengbiao Wu
 
 Computational and Structural Biotechnology Journal
+
+https://doi.org/10.1016/j.csbj.2025.01.024
